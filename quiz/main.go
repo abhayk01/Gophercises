@@ -1,5 +1,7 @@
 package main
 
+//This is the first version of the question .. Second one is with the name quiz1
+
 import (
 	"encoding/csv"
 	"fmt"
